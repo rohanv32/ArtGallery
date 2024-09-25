@@ -1,0 +1,87 @@
+{
+    "Famous Works": [
+        {
+            "title": "Women in the garden",
+            "year": "1866"
+        },
+        {
+            "title": "Impression, sunrise",
+            "year": "1872"
+        },
+        {
+            "title": "Autumn on the Seine at Argenteuil",
+            "year": "1873"
+        },
+        {
+            "title": "Camille Monet and a Child in the Artist\u2019s Garden in Argenteuil",
+            "year": "1875"
+        },
+        {
+            "title": "Haystacks at Giverny",
+            "year": "1884"
+        },
+        {
+            "title": "Haystack at Giverny",
+            "year": "1886"
+        },
+        {
+            "title": "Poplars at Giverny",
+            "year": "1887"
+        },
+        {
+            "title": "Antibes in the Morning",
+            "year": "1888"
+        },
+        {
+            "title": "Three Trees in Grey Weather",
+            "year": "1891"
+        },
+        {
+            "title": "Water Lilies, Evening Effect",
+            "year": "1897-1899"
+        },
+        {
+            "title": "Irises in Monet's Garden",
+            "year": "1900"
+        },
+        {
+            "title": "Waterloo Bridge, London",
+            "year": "1903"
+        },
+        {
+            "title": "Houses of Parliament",
+            "year": "1904"
+        },
+        {
+            "title": "Water Lily Pond",
+            "year": "1917"
+        },
+        {
+            "title": "Water Lilies",
+            "year": "1917-1919"
+        }
+    ],
+    "Similar Artworks": [
+        {
+            "title": "Claude Monet's Wisteria Bridge at Giverny France",
+            "artist": "Dai Wynn",
+            "location": "Australia",
+            "price": "$510",
+            "link": "https://www.saatchiart.com/art/Painting-Claude-Monet-S-Wisteria-Bridge-At-Giverny-France/5770/1660932/view"
+        },
+        {
+            "title": "Water Lily Pond",
+            "artist": "Claire Donachie",
+            "location": "New Zealand",
+            "price": "$2,400",
+            "link": "https://www.saatchiart.com/art/Painting-Water-Lily-Pond/1717953/12096527/view"
+        },
+        {
+            "title": "LE PONT JAPONAISE DE CLAUDE MONET",
+            "artist": "Dulcie Dee",
+            "location": "United States",
+            "price": "$495",
+            "link": "https://www.saatchiart.com/art/Drawing-Le-Pont-Japonaise-De-Claude-Monet/19954/4292328/view"
+        }
+    ]
+}
