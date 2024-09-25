@@ -66,4 +66,4 @@ This data is not freely available as a unified dataset because many art platform
 
 ## Example
 
-If you enter `The Water Lily Pond`, for example, the program will retrieve details from the Met's collection, search WikiArt for related pieces from Claude Monet, and show commercially available similar artworks on Saatchi Art.
+If you enter `Bridge over a Pond of Water Lilies`, for example, the program will retrieve details from the Met's collection, search WikiArt for related pieces from Claude Monet, and show commercially available similar artworks on Saatchi Art.
