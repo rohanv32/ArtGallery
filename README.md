@@ -42,8 +42,8 @@ This data is not freely available as a unified dataset because many art platform
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/art-scraper-dataset.git
-    cd art-scraper-dataset
+    git clone https://github.com/rohanv32/ArtGallery
+    cd ArtGallery
     ```
 
 2. **Install Dependencies**:
