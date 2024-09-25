@@ -10,14 +10,14 @@ This project retrieves artwork details from **The Metropolitan Museum of Art (Me
 The primary object of this dataset would be to aid art enthusiasts find and locate similar works of art, and those that are more accessible, baesd on the details of the wokrs of art they have liked and enjoy.
 
 The project combines three main data sources:
-- **Met API**: Provides structured and reliable data about artworks.
+- **The Metropolitan Museum of Art Collection API**: Provides structured and reliable data about artworks, created by the Metropolitan Museum of Art, New.
 - **WikiArt**: Popular platform offering a rich reference collection of contemporary and classic artworks.
 - **Saatchi Art**: An online gallery where you can find works of art suited to your interests from artists across the world.
 
 ## Data Collected
 
 The project collects the following information:
-- **Met API**: The title, artist, department, medium, and time period of the queried artwork.
+- **The Metropolitan Museum of Art Collection API**: The title, artist, department, medium, and time period of the queried artwork.
 - **WikiArt Scraper**: List of related famous artworks by the same artist, including their titles and years.
 - **Saatchi Art Scraper**: Similar artworks, including the title, artist, location, price, and link to the artwork for sale.
 
